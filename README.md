@@ -1,4 +1,4 @@
-# Treue_Technologies
+# Treue_Technologies_internship
 This repository showcases my data science internship at Treue Technologies, where I tackled three impactful machine learning projects:
 
 1. **Email Spam Detection**: Built a model to classify email spam using NLP techniques.
